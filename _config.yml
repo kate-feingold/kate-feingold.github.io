@@ -7,11 +7,11 @@ first_name: Kate
 last_name: Feingold
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student in Computer Vision at Weizmann Institute of Science, advised by Prof. Tali Dekel. Research interests: generative AI, 3D vision, and multimodal visual representations.
+  PhD student in Computer Vision at Weizmann Institute of Science, advised by Prof. Tali Dekel. Research interests: generative models, 3D/4D perception, and multimodal learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: computer vision, generative AI, diffusion models, 3D vision, Weizmann Institute, Kate Feingold
+keywords: computer vision, generative models, 3D/4D perception, multimodal learning, diffusion models, Weizmann Institute, Kate Feingold
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✨ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
