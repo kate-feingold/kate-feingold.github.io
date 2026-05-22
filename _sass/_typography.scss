@@ -49,6 +49,14 @@ table.table a {
   }
 }
 
+.clearfix a,
+#blog a,
+#talks a,
+#teaching a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {

@@ -58,6 +58,10 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  img.rounded {
+    border-radius: 1rem !important;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -68,6 +72,10 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+}
+
+.social .contact-icons a:hover {
+  color: #00ab37 !important;
 }
 
 .profile.float-right {
@@ -175,7 +183,8 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
+
 
     a {
       img {
@@ -252,6 +261,24 @@ ul.task-list input[type="checkbox"] {
     border-bottom-color: var(--global-theme-color);
     text-decoration: none;
   }
+}
+
+// Page outline box
+
+.post {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  padding: 2rem 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+// Section dividers
+
+.post article h2 {
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 // diff2html
