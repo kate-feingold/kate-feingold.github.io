@@ -34,8 +34,9 @@ I hold a B.Sc. from [Taras Shevchenko National University](https://www.knu.ua/en
 My research sits at the intersection of generative models, 3D/4D perception, and multimodal learning.
 I am drawn to problems where vision meets other modalities or paradigms in creative tasks.
 
-Previously, I was a Deep Learning Research Engineer at Deci AI (currently NVIDIA), where I worked on
-Neural Architecture Search and contributed to the open-source
-[SuperGradients](https://github.com/Deci-AI/super-gradients).
+Before joining Weizmann, I spent over six years working in computer vision and deep learning across
+industry, including at Deci AI (acquired by NVIDIA), where I contributed to a Neural Architecture
+Search system and to the open-source library [SuperGradients](https://github.com/Deci-AI/super-gradients),
+with earlier work spanning UAV navigation, action recognition, and video understanding.
 
 
