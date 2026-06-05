@@ -38,5 +38,3 @@ Before joining Weizmann, I spent over six years working in computer vision and d
 industry, including at Deci AI (acquired by NVIDIA), where I contributed to a Neural Architecture
 Search system and to the open-source library [SuperGradients](https://github.com/Deci-AI/super-gradients),
 with earlier work spanning UAV navigation, action recognition, and video understanding.
-
-

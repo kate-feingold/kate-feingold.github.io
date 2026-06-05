@@ -134,15 +134,27 @@
           {%- if site.data.venues[entry.abbr].color != blank -%}
             {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
           {%- endif -%}
-          <abbr class="badge rounded" {% if venue_style %}{{ venue_style }}{% endif %}>
+          <abbr
+            class="badge rounded"
+            {% if venue_style %}
+              {{- venue_style -}}
+            {% endif %}
+          >
             {%- if site.data.venues[entry.abbr].url -%}
-              <a href="{{ site.data.venues[entry.abbr].url }}" style="color:white;">{{ entry.abbr }}{% if entry.year %}, {{ entry.year }}{% endif %}</a>
+              <a href="{{ site.data.venues[entry.abbr].url }}" style="color:white;">
+                {{- entry.abbr -}}
+                {%- if entry.year %}, {{ entry.year }}{% endif -%}
+              </a>
             {%- else -%}
-              {{ entry.abbr }}{% if entry.year %}, {{ entry.year }}{% endif %}
+              {{ entry.abbr -}}
+              {%- if entry.year %}, {{ entry.year }}{% endif %}
             {%- endif -%}
           </abbr>
         {%- else -%}
-          <abbr class="badge rounded">{{ entry.abbr }}{% if entry.year %}, {{ entry.year }}{% endif %}</abbr>
+          <abbr class="badge rounded">
+            {{- entry.abbr -}}
+            {%- if entry.year %}, {{ entry.year }}{% endif -%}
+          </abbr>
         {%- endif -%}
       </div>
     {% endif %}
