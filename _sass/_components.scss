@@ -2,6 +2,28 @@
  * Reusable component styles: Cards, captions, profiles, etc.
  ******************************************************************************/
 
+// Dated list (date on left, content on right)
+
+.dated-list {
+  .dated-row {
+    display: flex;
+    gap: 1.25rem;
+    margin-bottom: 0.75rem;
+
+    .dated-date {
+      min-width: 5rem;
+      flex-shrink: 0;
+      color: var(--global-text-color-light);
+      font-size: 0.875rem;
+      padding-top: 0.1em;
+    }
+
+    .dated-content {
+      flex: 1;
+    }
+  }
+}
+
 // Checklist
 
 ul.task-list {
