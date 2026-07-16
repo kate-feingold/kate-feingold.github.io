@@ -14,6 +14,7 @@ selected_papers: true
 talks: true
 teaching_section: true
 blog_section: true
+press: true
 social: true
 
 announcements:

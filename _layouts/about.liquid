@@ -83,7 +83,7 @@ layout: default
     <!-- Blog -->
     {% if page.blog_section %}
       <div id="blog">
-        <h2>Blog</h2>
+        <h2>Blogs</h2>
         {% include blog_section.liquid %}
       </div>
     {% endif %}
@@ -93,6 +93,14 @@ layout: default
       <div id="teaching">
         <h2>Teaching</h2>
         {% include teaching_section.liquid %}
+      </div>
+    {% endif %}
+
+    <!-- Press -->
+    {% if page.press %}
+      <div id="press">
+        <h2>Press</h2>
+        {% include press.liquid %}
       </div>
     {% endif %}
 
