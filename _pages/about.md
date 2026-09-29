@@ -31,8 +31,6 @@ latest_posts:
 I am a PhD student in Computer Vision at the [Weizmann Institute of Science](https://www.weizmann.ac.il/),
 advised by [Prof. Tali Dekel](https://www.weizmann.ac.il/math/dekel/), with whom I also completed my M.Sc.
 I hold a B.Sc. from [Taras Shevchenko National University](https://www.knu.ua/en/).
-
 My research sits at the intersection of multimodal learning, generative models, and 3D/4D perception.
-I am drawn to problems where vision meets other modalities or paradigms in creative tasks.
 
 I have over six years of industry experience spanning Neural Architecture Search at Deci AI (acquired by NVIDIA), open-source contributions to [SuperGradients](https://github.com/Deci-AI/super-gradients), UAV navigation, action recognition, and video understanding.

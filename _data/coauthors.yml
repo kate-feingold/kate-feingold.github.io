@@ -2,6 +2,10 @@
   - firstname: ["Omri", "O."]
     url: https://omrikaduri.github.io/
 
+"isola":
+  - firstname: ["Phillip", "P."]
+    url: https://web.mit.edu/phillipi/
+
 "dekel":
   - firstname: ["Tali", "T."]
     url: https://www.weizmann.ac.il/math/dekel/home
