@@ -33,4 +33,4 @@ advised by [Prof. Tali Dekel](https://www.weizmann.ac.il/math/dekel/), with whom
 I hold a B.Sc. from [Taras Shevchenko National University](https://www.knu.ua/en/).
 My research sits at the intersection of multimodal learning, generative models, and 3D/4D perception.
 
-I have over six years of industry experience spanning Neural Architecture Search at Deci AI (acquired by NVIDIA), open-source contributions to [SuperGradients](https://github.com/Deci-AI/super-gradients), UAV navigation, action recognition, and video understanding.
+I have over six years of industry experience spanning Neural Architecture Search at Deci AI (acquired by NVIDIA), open-source contributions, video understanding, autonomous UAV navigation, and action recognition.
